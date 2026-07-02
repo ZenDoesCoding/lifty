@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+artifacts/
+scratch/
+database/logs/mesocycle_graph_overview_*.pdf
+database/logs/last_access.txt
+database/metrics/archive/
+database/metrics/meso_state.md
+training_plans/*.pdf
+training_plans/archive/

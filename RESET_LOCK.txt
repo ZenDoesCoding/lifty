@@ -1,0 +1,3 @@
+# LIFTY OS: RESET AUTHORIZATION LOCK
+# To perform a complete workspace reset, enter your reset password on the line below:
+

@@ -1,0 +1,6 @@
+{
+  "status": "Maintenance, Bulk, Cut",
+  "weight": "40.0 - 200.0 (float in kg)",
+  "height": "100 - 250 (int in cm)",
+  "gender": "male, female"
+}
